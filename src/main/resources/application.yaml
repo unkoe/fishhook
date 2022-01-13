@@ -1,0 +1,6 @@
+#server:
+#  port: 4399
+deploy:
+#  default-conf: /root/git-webhook/deploy/
+  default-conf: git-webhook/deploy
+

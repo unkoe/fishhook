@@ -1,0 +1,6 @@
+setting:
+  strategy: moni
+build:
+  default:
+    - main.py
+
